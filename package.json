@@ -1,0 +1,13 @@
+{
+  "name": "htmlchat",
+  "version": "1.0.0",
+  "description": "Small test app for an interactive chat that runs without any JS in the frontend code.",
+  "main": "htmlChat.js",
+  "scripts": {
+    "start": "node htmlChat.js",
+    "test": "node htmlChat.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
